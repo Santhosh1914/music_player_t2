@@ -27,20 +27,20 @@ let track_list = [
   {
     name: "jai sree ram",
     artist: "ajay atul",
-    image: "D:/sync inter/Adipurush-2023-250x250.jpg",
-    path: "D:/sync inter/[iSongs.info] 01 - Jai Shri Ram (Telugu).mp3",
+    image: "inter/Adipurush-2023-250x250.jpg",
+    path: "inter/[iSongs.info] 01 - Jai Shri Ram (Telugu).mp3",
   },
   {
     name: "Priya Mithunam",
     artist: "Manoj Muntashir,Ramajogayya Sastry",
-    image: "D:/sync inter/Yedho-Maya-Chesave-2023-250x250.jpg",
-    path: "D:/sync inter/[iSongs.info] 04 - Priya Mithunam.mp3",
+    image: "inter/Adipurush-2023-250x250.jpg",
+    path: "inter/[iSongs.info] 04 - Priya Mithunam.mp3",
   },
   {
     name: "Ram Sita Ram",
     artist: "Sachet-Parampara Singer",
-    image: "D:/sync inter/Adipurush-2023-250x250.jpg",
-    path: "D:/sync inter/Ram Sita Ram.mp3",
+    image: "inter/Adipurush-2023-250x250.jpg",
+    path: "inter/Ram Sita Ram.mp3",
   },
 ];
 function loadTrack(track_index) {
